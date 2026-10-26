@@ -1,6 +1,6 @@
 # Beat Beacon
 
-Beat Beacon is a visual metronome plug-in for your DAW, from [Andersen MM Productions](https://www.mmproductions.no/).
+Beat Beacon is a visual metronome plug-in for your DAW, from [MM Productions](https://www.mmproductions.no/).
 
 It follows the host's transport, tempo and time signature. It shows every beat clearly and highlights the downbeat, so you have a silent timing reference while you record, edit or perform. An optional click, with an accented beat 1, plays the same beats you see.
 
@@ -20,4 +20,4 @@ Beat Beacon is currently available for Windows (64-bit) as a VST3 plug-in.
 
 This repository only distributes Beat Beacon downloads. Beat Beacon is free, but it is not open source. The source code is not published here, and no license to it is granted.
 
-Copyright 2026 Andersen MM Productions. All rights reserved.
+Copyright 2026 MM Productions. All rights reserved.
