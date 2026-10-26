@@ -18,6 +18,8 @@ Beat Beacon is currently available for Windows (64-bit) as a VST3 plug-in.
 
 ## About this repository
 
-This repository only distributes Beat Beacon downloads. Beat Beacon is free, but it is not open source. The source code is not published here, and no license to it is granted.
+This repository only distributes Beat Beacon downloads. Beat Beacon is not open source, and its source code is not published here.
 
-Copyright 2026 MM Productions. All rights reserved.
+Beat Beacon is proprietary software by MM Productions. You may download, install and use it free of charge. All other rights reserved.
+
+Copyright 2026 MM Productions.
