@@ -14,10 +14,10 @@ It follows the host's transport, tempo and time signature. It shows every beat c
 
 | Platform | Version | Plug-in formats | Download |
 |---|---|---|---|
-| Windows x64 | v0.3.2 | VST3 | [EXE installer (recommended) or ZIP](https://github.com/kjand/BeatBeacon-Releases/releases/tag/v0.3.2) |
-| macOS, Universal (Apple Silicon and Intel) | v0.3.0 | VST3 + AU | [Signed and notarized PKG installer](https://github.com/kjand/BeatBeacon-Releases/releases/tag/v0.3.0) |
+| Windows x64 | v0.4.0 | VST3 | [EXE installer (recommended) or ZIP](https://github.com/kjand/BeatBeacon-Releases/releases/tag/v0.4.0) |
+| macOS, Universal (Apple Silicon and Intel) | v0.4.0 | VST3 + AU | [Signed and notarized PKG installer](https://github.com/kjand/BeatBeacon-Releases/releases/tag/v0.4.0) |
 
-Each release page lists the requirements, installation steps and SHA-256 checksums. Older versions are on the [Releases](https://github.com/kjand/BeatBeacon-Releases/releases) page.
+Each release page lists the requirements, installation steps and SHA-256 checksums. The newest version is always on the [latest release](https://github.com/kjand/BeatBeacon-Releases/releases/latest) page. Older versions are on the [Releases](https://github.com/kjand/BeatBeacon-Releases/releases) page.
 
 ## About this repository
 
